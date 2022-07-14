@@ -1,0 +1,30 @@
+.flexcontainer{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.formgroup{
+	background-color: #b84a4a38;
+	
+	margin-left: 80px;
+	margin: 20px;
+	min-width: 600px;
+	flex-basis: 200px;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-top: 30px;
+	min-height: 30px;
+	height: 500px;
+
+}
+
+.userdata img{
+	margin-left: -70px;
+	margin-top: -20px;
+	width: 580px;
+	height: 480px;
+	border-radius: 10px;
+	
+}
